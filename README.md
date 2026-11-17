@@ -16,7 +16,7 @@ Aelira
 
 A local-first AI companion built with Tauri, React, and Ollama.
 
-# NeuroTouch
+# NeuroTouch (working title)
 
 A computational neuroscience project exploring neural simulations and artificial sensory perception.
 
