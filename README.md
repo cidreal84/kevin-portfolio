@@ -1,24 +1,22 @@
-# kevin-portfolio
-My personal developer portfolio featuring software projects, AI experiments, computational neuroscience, and software engineering.
 
-Kevin’s Developer Portfolio
 
-Welcome! I’m an independent developer interested in building software, exploring artificial intelligence, and understanding how technology works.
+# Welcome!
+ I’m an independent developer interested in building software, exploring artificial intelligence, and understanding how technology works.
 
-About Me
+# About Me
 
 * Independent developer
 * Exploring AI and computational neuroscience
 * Interested in software engineering and creative technology
 * Always experimenting with new ideas
 
-Projects
+# Projects
 
 Aelira
 
 A local-first AI companion built with Tauri, React, and Ollama.
 
-NeuroTouch
+# NeuroTouch
 
 A computational neuroscience project exploring neural simulations and artificial sensory perception.
 
@@ -31,11 +29,10 @@ Technologies
 * Git
 * Ollama
 
-Currently Exploring
+# Currently Exploring
 
 * Artificial intelligence
 * Computational neuroscience
 * Neural simulations
 * Software architecture
-
 ⸻
